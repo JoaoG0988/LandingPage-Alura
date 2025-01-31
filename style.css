@@ -165,14 +165,15 @@ h1{
 }
 
 .languages .languages-button{
-    align-items:center;
-    background-color:transparent;
+    align-items: center;
+    background-color: transparent;
     border: 1px solid #878787;
-    color:#fff;
+    color:#FFF;
+    font-weight: bold;
     cursor:pointer;
-    font-weight:bold;
-    width:170px;
+    width: 170px;
     margin:8px;
     padding:8px;
     border-radius:20px;
 }
+
