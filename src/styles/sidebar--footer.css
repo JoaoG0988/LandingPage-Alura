@@ -160,7 +160,8 @@ h1{
     text-decoration:underline;
 }
 
-.languages .languages-button{
+
+.sidebar .languages .languages-button{
     align-items: center;
     background-color: transparent;
     border: 1px solid #878787;
