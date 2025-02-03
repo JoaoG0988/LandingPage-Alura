@@ -1,3 +1,4 @@
+
 const searchInput = document.getElementById('search-input');
 const resultArtist = document.getElementById('result-artist');
 const resultPlaylist = document.getElementById('result-playlists');
@@ -6,7 +7,7 @@ const resultPlaylist = document.getElementById('result-playlists');
 function requestApi(searchTerm) {
     fetch(`http://localhost:3000/artists?name_like=${searchTerm}`)
         .then((response) => response.json())
-        .then((result) => displayResults(result));
+        .then((result) => displayResults(result))
 }
 
 
@@ -26,12 +27,12 @@ function displayResults(result){
 
 searchInput.addEventListener('input', function() {
     const searchTerm = searchInput.value.toLowerCase();
-    if(searchTerm ==='') {
+    if(searchTerm ==="") {
         resultPlaylist.classList.add('hidden');
         resultArtist.classList.remove('hidden');
         return;
     }
 
     requestApi(searchTerm);
-});
+})
 
