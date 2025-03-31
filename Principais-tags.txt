@@ -1,0 +1,80 @@
+Principais Tags do HTML e Suas Funções
+
+=========================
+ESTRUTURA BÁSICA
+=========================
+<!DOCTYPE html> - Define o tipo de documento como HTML.
+<html> - Elemento raiz que contém todo o conteúdo da página.
+<head> - Contém metadados e links para recursos externos.
+<title> - Define o título da página.
+<body> - Contém o conteúdo visível da página.
+
+=========================
+ESTRUTURA DE CONTEÚDO
+=========================
+<header> - Define o cabeçalho da página ou seção.
+<nav> - Representa uma seção de links de navegação.
+<main> - Contém o conteúdo principal da página.
+<section> - Define uma seção temática do documento.
+<article> - Usado para conteúdos independentes.
+<aside> - Define conteúdos relacionados (ex: barras laterais).
+<footer> - Define o rodapé da página ou seção.
+
+=========================
+TEXTO E FORMATAÇÃO
+=========================
+<h1> a <h6> - Títulos e subtítulos (h1 mais importante, h6 menos importante).
+<p> - Parágrafo de texto.
+<span> - Aplica estilos específicos ao texto.
+<strong> - Dá ênfase forte ao texto (negrito).
+<em> - Dá ênfase ao texto (itálico).
+<br> - Quebra de linha.
+<hr> - Linha horizontal para separação.
+
+=========================
+LISTAS
+=========================
+<ul> - Lista não ordenada (com marcadores).
+<ol> - Lista ordenada (numerada).
+<li> - Representa um item da lista.
+
+=========================
+LINKS E MÍDIA
+=========================
+<a> - Define um link.
+<img> - Insere uma imagem.
+<video> - Insere um vídeo.
+<audio> - Insere áudio.
+<iframe> - Insere um conteúdo externo.
+
+=========================
+FORMULÁRIOS
+=========================
+<form> - Cria um formulário para entrada de dados.
+<input> - Campo de entrada (texto, senha, etc.).
+<label> - Associa um texto a um campo de formulário.
+<textarea> - Área para entrada de texto longo.
+<button> - Botão clicável.
+<select> - Menu suspenso.
+<option> - Opção dentro de um menu suspenso.
+<fieldset> - Agrupa elementos de um formulário.
+<legend> - Título para um <fieldset>.
+
+=========================
+TABELAS
+=========================
+<table> - Define uma tabela.
+<thead> - Cabeçalho da tabela.
+<tbody> - Corpo da tabela.
+<tr> - Linha da tabela.
+<th> - Cabeçalho de uma célula.
+<td> - Célula de dados.
+
+=========================
+OUTRAS TAGS IMPORTANTES
+=========================
+<div> - Contêiner genérico para agrupar elementos.
+<meta> - Metadados da página (charset, descrição, etc.).
+<link> - Vincula arquivos externos (CSS).
+<script> - Insere ou vincula scripts JavaScript.
+<style> - Adiciona estilos CSS diretamente na página.
