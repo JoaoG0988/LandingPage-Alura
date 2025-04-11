@@ -4,40 +4,40 @@ Este repositório contém uma lista das principais tags HTML, organizadas por ca
 
 ---
 
-## 📂 Categorias de Tags
+## Categorias de Tags
 
-### 🧱 Estrutura Básica
+### Estrutura Básica
 - `<!DOCTYPE html>` - Define o tipo de documento como HTML.
 - `<html>` - Elemento raiz do HTML.
 - `<head>` - Contém metadados.
 - `<title>` - Título da aba.
 - `<body>` - Conteúdo visível da página.
 
-### 📄 Estrutura de Conteúdo
+### Estrutura de Conteúdo
 - `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>` — Estruturam o conteúdo da página.
 
-### ✍️ Texto e Formatação
+### Texto e Formatação
 - Títulos: `<h1>` a `<h6>`
 - Parágrafos: `<p>`, quebras de linha: `<br>`, linhas horizontais: `<hr>`
 - Destaques: `<strong>`, `<em>`, `<span>`
 
-### 📋 Listas
+### Listas
 - Não ordenadas: `<ul>`
 - Ordenadas: `<ol>`
 - Itens: `<li>`
 
-### 🌐 Links e Mídia
+### Links e Mídia
 - Links: `<a>`, imagens: `<img>`, vídeos: `<video>`, áudios: `<audio>`, iframes: `<iframe>`
 
-### 📝 Formulários
+### Formulários
 - Estrutura: `<form>`, `<input>`, `<label>`, `<textarea>`, `<button>`
 - Menus: `<select>`, `<option>`
 - Agrupamento: `<fieldset>`, `<legend>`
 
-### 📊 Tabelas
+### Tabelas
 - Estrutura: `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`
 
-### ⚙️ Outras Tags Importantes
+### Outras Tags Importantes
 - Contêiner genérico: `<div>`
 - Metadados e recursos: `<meta>`, `<link>`, `<script>`, `<style>`
 
